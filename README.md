@@ -1,7 +1,7 @@
 ##Ola! Eu sou o Gustavo Galassi👋
 
 - 🔭 Em transiçãode carreira ...
-- 🌱 Estudando Java FullStack
+- 🌱 Desenvolvedor Web Java FullStack
 
 <div align="center">
   <a href="https://github.com/grgalassi">
